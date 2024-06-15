@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-Someone else. another.
 Someone else.
-Another two
-=======
-Someone else.
->>>>>>> parent of bf86c0f (Update change.)
